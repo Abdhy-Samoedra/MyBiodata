@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Biodata</string>
+    <string name="nama_abdhy_samoedra">Nama : Abdhy Samoedra</string>
+    <string name="ttl_blitar_3_juli_2003">TTL : Blitar, 3-Juli-2003</string>
+    <string name="alamat_ngandengan_tegalrejo_selopuro_kab_blitar">Alamat : Ngandengan,Tegalrejo,Selopuro,Kab Blitar</string>
+    <string name="no_hp_081554522236">No HP : 081554522236</string>
+    <string name="hobi_sepka_bola">Hobi : Sepka bola</string>
+    <string name="keinginan_memberangkatkan_haji_orang_tua">Keinginan : Memberangkatkan haji orang tua</string>
+</resources>

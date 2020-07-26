@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="30dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="226dp"
+        android:src="@drawable/sam"
+        android:paddingBottom="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/nama_abdhy_samoedra"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/ttl_blitar_3_juli_2003"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/alamat_ngandengan_tegalrejo_selopuro_kab_blitar"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/no_hp_081554522236"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/hobi_sepka_bola"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/keinginan_memberangkatkan_haji_orang_tua"
+        android:textSize="20sp"/>
+
+</LinearLayout>
